@@ -1,4 +1,4 @@
-# AI Study Buddy 🧠
+# AI Study Buddy 
 
 An intelligent learning platform designed to transform study materials into interactive learning experiences.  
 This project was built for the **AI Learnify Hackathon** to solve the problem of disorganized and passive learning.
@@ -16,7 +16,7 @@ It is challenging to extract key information, revise efficiently, and test knowl
 
 ---
 
-## ✨ Core Features
+## Core Features
 - **Multi-Format File Upload**: Supports PDF, Excel (.xlsx, .xls, .csv), and plain text (.txt, .md).  
 - **AI-Powered Summaries**: Automatically generates concise, topic-wise summaries highlighting key concepts.  
 - **Instant Flashcards**: Creates digital flashcards with questions and answers for quick revision and memorization.  
@@ -33,7 +33,7 @@ It is challenging to extract key information, revise efficiently, and test knowl
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js and npm (or yarn) installed on your system  
