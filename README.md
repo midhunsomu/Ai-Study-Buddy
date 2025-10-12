@@ -1,4 +1,3 @@
-// README.md
 # AI-Powered Study Buddy (React)
 
 This repository contains a user-friendly React application that converts study materials (PDFs, notes) into summaries, flashcards, and quizzes using Generative AI (Gemini-2.0-Flash).
