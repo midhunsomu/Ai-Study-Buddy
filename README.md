@@ -24,7 +24,7 @@ It is challenging to extract key information, revise efficiently, and test knowl
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 - **Frontend**: React.js  
 - **Generative AI**: Google Gemini API (`gemini-1.5-flash-latest`)  
 - **File Processing**:  
