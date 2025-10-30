@@ -26,7 +26,7 @@ It is challenging to extract key information, revise efficiently, and test knowl
 
 ## Technology Stack
 - **Frontend**: React.js  
-- **Generative AI**: Google Gemini API (`gemini-1.5-flash-latest`)  
+- **Generative AI**: Use built in api (Prompt Api) 
 - **File Processing**:  
   - `pdfjs-dist` for PDF text extraction  
   - `xlsx` for Excel and CSV processing  
