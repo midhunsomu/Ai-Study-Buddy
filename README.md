@@ -1,7 +1,7 @@
 # AI Study Buddy 
 
 An intelligent learning platform designed to transform study materials into interactive learning experiences.  
-This project was built for the **AI Learnify Hackathon** to solve the problem of disorganized and passive learning.
+This project was built for the **Google chrome built in ai challenge 2025** to solve the problem of disorganized and passive learning.
 
 <img width="1917" height="671" alt="image" src="https://github.com/user-attachments/assets/6c1dd478-605b-4567-9e2e-5c56bf9a0ae6" />
 
@@ -37,7 +37,7 @@ It is challenging to extract key information, revise efficiently, and test knowl
 
 ### Prerequisites
 - Node.js and npm (or yarn) installed on your system  
-- A valid **Google Gemini API Key** ([Google AI Studio](https://ai.google/studio))
+- Use built in api (Prompt Api)
 
 ### Installation & Setup
 
@@ -57,10 +57,7 @@ npm install
 3. Set up environment variables:
 
  - Create a .env file in the project root
- - Add your Gemini API key:
-   ```bash
-   REACT_APP_GEMINI_API_KEY="YOUR_API_KEY_HERE"
-   ```
+
 4. Run the Application
    ```bash
    npm start
